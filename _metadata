@@ -1,0 +1,10 @@
+{
+  "version" : "1.0",
+  "author" : "patted man",
+  "description" : "tech additions' \"isn_tech_rebinding.lua\" loads the original techupgradegui script for no reason it is already loaded and this breaks anything thats like, trying to hook into its functioners\n\nthis makes it  not do that. thats it\n\nthanks gay monster aunt im so upset",
+  "name" : "pat_techadditionsfix",
+  "friendlyName" : "Tech Additions but it Doesn't Break Mods",
+  "steamContentId" : "2968752816",
+  "link" : "steam://url/CommunityFilePage/2968752816",
+  "includes" : ["Tech Additions"]
+}
